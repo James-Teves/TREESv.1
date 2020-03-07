@@ -1,0 +1,1 @@
+INSERT INTO `sounds` (device_id, iValue, dDateTime) VALUES (1, (FLOOR( 1 + RAND( ) *60 )), NOW());
